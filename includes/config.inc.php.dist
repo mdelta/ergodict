@@ -1,0 +1,8 @@
+<?php
+    $sql['server'] = 'db_server';
+    $sql['user'] = 'db_user';
+    $sql['password'] = 'db_password';
+    $sql['db'] = 'db_name';
+
+    $sentryURL = 'sentry_url_value'; 
+?>

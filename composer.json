@@ -1,0 +1,8 @@
+{
+    "require": {
+        "sentry/sdk": "^3.3",
+        "twig/twig": "^3.0",
+        "twbs/bootstrap-icons": "^1.10",
+        "whatwedo/twig-bootstrap-icons": "^1.1"
+    }
+}
